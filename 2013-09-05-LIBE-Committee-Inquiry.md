@@ -4,56 +4,65 @@
 > Event: European Parliament Civil Liberties committee hearing on USA Spying<br>
 > Venue: European Parliament, Brussels<br>
 > Abstract: LIBE Committee Inquiry on Electronic Mass Surveillance of EU Citizens. Jacob Appelbaum answers questions and gives a further insight into the NSA / GCHQ / Government spying technologies and what they are capable of.<br>
-> Video (Youtube, 240p, 36:41): https://www.youtube.com/watch?v=SdLKje1IydQ<br>
 > Video (Youtube, 240p, 3:25:46): https://www.youtube.com/watch?v=Cu6accTBjfs<br>
+> Video (Youtube, 240p, 36:41): https://www.youtube.com/watch?v=SdLKje1IydQ<br>
 > Video (Youtube, 240p, 22:16): https://www.youtube.com/watch?v=JQyw-ozLfas
 
 Host:  Mr. Appelbaum, you’ve got the floor!
 
-Jacob Appelbaum:  Thanks so much for having me. It’s quite an honor to be here. This is my first time in European Parliament. I want to take a broad view of someone who has some experience with this. I’ve spent the last decade working in a censorship resistance field. I work on the Tor Network. That’s an anonymity network that people can use so as to not be surveilled and to bypass censorship. It’s actually funded by the US State Department, the Swedish International Development Agency and it’s a free software project.
+Jacob Appelbaum:  Thanks so much for having me. It’s quite an honor to be here. This is my first time in European Parliament. I want to take a broad view of someone who has some experience with this. I’ve spent the last decade working in a censorship resistance field. I work on the Tor Network. That’s an anonymity network that people can use so as to not be surveilled and to bypass censorship. It’s actually funded by the US State Department, the Swedish International Development Agency, and it’s a free software project.
 
-However, I’m here more in my capacity as an independent journalist, as an investigative journalist but also as a person who’s been subject to extreme scrutiny, under these types of surveillance programs. With that said, I definitely want to talk about the NSA, and I will, but I want to have a broader view. Part of what we’ve learned from Snowden and his whistleblowing in the public interest, is that the NSA has an all‑encompassing spy program, essentially.
+However, I’m here more in my capacity as an independent journalist, as an investigative journalist, but also as a person who’s been subject to extreme scrutiny under these types of surveillance programs. With that said, I definitely want to talk about the NSA, and I will, but I want to have a broader view. Part of what we’ve learned from Snowden and his whistleblowing in the public interest, is that the NSA has an all‑encompassing spy program.
 
-But what is not really well described in public yet is how it is actually the case that the FBI and the Central Intelligence Agency of the United States also have similar access programs. For example, when people talk about these PRISM‑like programs, or PRISM itself, what that name actually means is it’s a program where people in corporations, or perhaps non‑profits of any kind, or simply organizations, are complicit in helping the government. Either because they are forced under the FISA Amendments Act, FAA702 I believe is the specific FISA Amendments Act that they are using in the United States.
+But what is not really well described in public yet is how it is actually the case that the FBI and the Central Intelligence Agency of the United States also have similar access programs. For example, when people talk about these PRISM‑like programs, or PRISM itself, what that name actually means is: it’s a program where people in corporations, or perhaps non‑profits of any kind, or simply organizations, are complicit in helping the government. Either because they are forced under the FISA Amendments Act, FAA702 I believe is the specific FISA Amendments Act that they are using in the United States.
+
 In this case Google for example, or Yahoo, or Skype, or Microsoft. They have either systems inside of their networks or attached to their networks, where they are willingly and knowingly assisting in secret interception. That would be the PRISM program.
 
-Or there are significantly more serious business‑like records, like legal instruments, which don’t really even have a name other than business records. For example, the Federal Bureau of Investigation in the United States has a thing called the National Security Letter of which I believe I am actually a subject, which is kind of an interesting story for another time. These are generally considered to be unconstitutional in the United States. Judges have ruled that. 
+Or there are significantly more serious business‑like records, like legal instruments, which don’t really even have a name other than *business records*. For example, the Federal Bureau of Investigation in the United States has a thing called the National Security Letter (of which I believe I am actually a subject, which is an interesting story for another time). These are generally considered to be unconstitutional in the United States. Judges have ruled that. 
 
-It appears that each branch and each agency has something that is like a national security letter. In the case of the business records, it seems in fact significantly worse than a national security letter. So it’s not just a matter of meta‑data, it is in fact any whatever business records. That’s any records a business may create, or you may create with a business.
+It appears that each branch and each agency has something that is like a National Security Letter. In the case of the business records, it seems in fact significantly worse than a national security letter. So it’s not just a matter of meta‑data, it's in fact whatever business records. Any record a business may create, or you may create with a business.
 
-If we consider Prism, and then if we consider the fact they have hardware that’s inside of these networks or are inside of these computer systems, it really is everything, unless there is specific push back inside of companies. 
+If we consider Prism, and then if we consider the fact they have hardware that’s inside of these networks, or are inside of these computer systems, it really is everything. Unless there is specific push back inside of companies. 
 
 This we could call Prism. But it is actually more than just one program. Prism is just one program, and there are many programs like this. 
 
-There is another word which has been used quite a lot for companies that maybe don’t fit exactly to that mold and it’s been called *upstream*.
+There is another word which has been used quite a lot for companies that maybe don’t fit exactly to that mold, and it’s been called *Upstream*.
 
-Upstream is more of a description, that it is rather how it is that they are doing it technologically. It sort of suggests that there is a little bit less complicity with the people that are targeted. What is suggests is if they can’t monitor someone directly or can’t reach inside of an organization, they then monitor any communication with that organization. 
+**Upstream** is more of a description. That is, it's rather *how* it is that they are doing it technologically. It suggests that there's a little bit less complicity with the people that are targeted. But what it suggests is if they can’t monitor someone directly, or can’t reach inside of an organization, they monitor any communication with that organization. 
 
 So that is they are *upstream* of that company, of those entities, of those systems.
 
-The **Tempora** system, which is the full take collection system running in the United Kingdom by GCHQ. This is the system in the sense that they are the entire Internet leaving and entering the UK, and any packet any piece of data that flows through the UK goes into Tempora and is stored for, as of the last time I heard, for at least three full days. 
+[4:02]
 
-That’s every single thing not just meta‑data, all data. 
+The **Tempora** system is the full take collection system running in the United Kingdom by GCHQ. This is the system in the sense that they are the entire Internet leaving and entering the UK. Any packet, any piece of data that flows through the UK, goes into Tempora and is stored for, as of the last time I heard, at least three full days. 
 
-So that kind of system combined with something like Prism, is a surveillance apparatus that the world has never seen before.
+That’s every single thing. Not just meta‑data, all data. 
 
-When Duncan Campbell revealed **Echelon** to the world, it was pretty terrifying. It was a very impactful thing for me. But when he revealed it to the world I didn’t imagine it could become so much worse. Echelon by comparison is the kids’ stuff that hackers create these days. 
+So that kind of system, combined with something like Prism, is a surveillance apparatus that the world has never seen before.
 
-These systems that we are seeing, Snowden having revealed through Glenn Greenwald and Laura Poitras, these systems are so advanced. The way these systems work and the way that these programs work it is really it is a three phase approach.
+When Duncan Campbell revealed **Echelon** to the world, it was pretty terrifying. It was a very impactful thing for me. But when he revealed it to the world, I didn’t imagine it could become so much worse. But Echelon by comparison is the kids’ stuff that hackers create these days. 
 
-The first is through complicity either with legal instruments, the second is by normal surveillance and spying which is the upstream. The third, is what has recently been talked about as the GENIE program. This was recently revealed in the Washington Post. Genie is just one of many programs for tactical exploitation. They want to know what it is that you’re doing. They can’t monitor you upstream, they can’t go to Google to get your information so they break into your computer system.
+These systems that we are seeing, Snowden having revealed through Glenn Greenwald and Laura Poitras, these systems are so advanced. 
 
-According to what the Washington Post has recently revealed, there are tens of thousands of systems which have been compromised by the NSA in an active way under just the GENIE program. There are other programs like that I am familiar with, which have not yet been revealed in public, which will be revealed in good time, where they are targeting specific pieces of software, where they are targeting specific types of people. And where they are specifically doing it for people that are not terrorists.
+The way these systems work and the way these programs work, is a three phase approach:
 
-Some of the things that are clearly noted in some of these documents, it is the case that the terrorist is the exception. If they have 30 cases, one of them might be a terrorist. This is something that’s very concerning because with a full‑take collection, it is necessarily the case that you have every single person surveilled. One or two of them may be terrorists, accused, suspected, not even convicted, certainly not indicted. This is something which is also very important to keep in mind.
+- The first is through complicity either with legal instruments.
+- The second is by normal surveillance and spying which is the upstream. 
+- The third is what has recently been talked about as the GENIE program. This was recently revealed in the Washington Post. 
 
-These people have not formally been charged in anyway, and yet they are painted in this way. People that are targeted in this way and are under this surveillance...none of them are really terrorists in this case. There are special exceptions. It’s important to recognize how these things tie together because it’s very boring just to talk about technology.
+*GENIE* is just one of many programs for tactical exploitation. They want to know what it is that you’re doing. They can’t monitor you upstream, they can’t go to Google to get your information, so they break into your computer system.
 
-Since almost no one understands the technology, it’s a waste of time. Instead what we can talk about is the things that people really do understand. Which is that with the Five Eyes program, that is to say the defense signals director to Australia, CSE from Canada, the GCSB from New Zealand, the GCHQ from the United Kingdom, and the NSA from the United States.
+According to what the Washington Post has recently revealed, there are tens of thousands of systems which have been compromised by the NSA in an active way under just the GENIE program. There are other programs like that I am familiar with, which have not yet been revealed in public, which will be revealed in good time, where they are targeting specific pieces of software, where they are targeting specific types of people, and where they are specifically doing it for people that are not terrorists.
 
-They have formed a partnership such that, despite the American Revolution against the British. GCHQ can query the NSA’s databases of America citizens where they have similar full‑take collection systems. How that’s legal is completely beyond me. How that for example is democratic, how it represents upholding my country, to me is quite a dumbfounding thing. I’m sure the British feel the same on the NSA careers. I would be quite upset about that as well.
+Some of the things that are clearly noted in some of these documents, it is the case that the terrorist is the exception. If they have 30 cases, one of them might be a terrorist. This is something that’s very concerning because with a full‑take collection, it is necessarily the case that you have every single person surveilled. One or two of them may be terrorists. Accused, suspected, not even convicted, certainly not indicted. This is something which is also very important to keep in mind.
 
-Those are what are called first‑tier partners. Those are the partners GCHQ and NSA are first‑tier partners, and the others are second‑tier partners. B and D, that’s the Bundis, Noctis and Dein of Germany, they are a third‑tier partner. It is not unlike Victorian piracy sites where you have a quota to fill. If you’re a third‑tier partner, you have to contribute some information to be able to query some information out. I’m not totally clear on how this works, but it is an interesting distinction between the different tiers.
+These people have not been formally charged in any way, and yet they are painted in this way. People that are targeted in this way and are under this surveillance – none of them are really terrorists. There are some special exceptions. But it’s important to recognize how these things tie together, because it’s very boring just to talk about technology. Since almost no one understands the technology, it’s a waste of time. 
+
+Instead what we can talk about is the things that people really do understand. Which is that, with the Five Eyes program – that is to say the defense signals directorate from Australia, CSE from Canada, the GCSB from New Zealand, the GCHQ from the United Kingdom, and the NSA from the United States – they have formed a partnership such that, despite the American Revolution against the British. GCHQ can query the NSA’s databases of America citizens, where they have similar full‑take collection systems. 
+
+How that’s legal is completely beyond me. How that for example is democratic, how it represents upholding my country, to me is quite a dumbfounding thing. I’m sure the British feel the same on the NSA queries in their system. I would be quite upset about that as well.
+
+Those are what are called first‑tier partners. GCHQ and NSA are first‑tier partners, and the others are second‑tier partners. BND, that’s the Bundesnachrichtendienst of Germany, they are a third‑tier partner. My understanding is that it's not unlike bittorrent piracy sharing sites where you have a quota to fill. If you’re a third‑tier partner, you have to contribute some information to be able to query some information out. I’m not totally clear on how this works, but it is an interesting distinction between the different tiers.
 
 This comes together to be used in egregious ways...for example, there exists signals’ emission databases and fingerprint or signature databases. You have a particular signature for your voice, you have a particular set of selector or selector‑like objects that is your email address, your phone number, things like that.
 
