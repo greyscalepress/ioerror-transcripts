@@ -4,6 +4,7 @@
 > Event: European Parliament Civil Liberties committee hearing on USA Spying<br>
 > Venue: European Parliament, Brussels<br>
 > Abstract: LIBE Committee Inquiry on Electronic Mass Surveillance of EU Citizens. Jacob Appelbaum answers questions and gives a further insight into the NSA / GCHQ / Government spying technologies and what they are capable of.<br>
+> Alternate transcript: http://wp.me/p1to5g-bN<br>
 > Video (Youtube, 240p, 3:25:46): https://www.youtube.com/watch?v=Cu6accTBjfs<br>
 > Video (Youtube, 240p, 36:41): https://www.youtube.com/watch?v=SdLKje1IydQ<br>
 > Video (Youtube, 240p, 22:16): https://www.youtube.com/watch?v=JQyw-ozLfas
@@ -18,7 +19,7 @@ With that said, I definitely want to talk about the NSA, and I will, but I want 
 
 But what is not really well described in public yet is that the FBI and the CIA of the United States also have similar access programs. 
 
-When people talk about these PRISM‑like programmes, or PRISM itself, what that name actually means is: a programme where people in corporations, or perhaps non‑profits of any kind, or simply organizations, are complicit in helping the government. [Partly] because they are forced under the FISA Amendments Act – FAA 702 I believe is the specific FISA Amendments Act that they are using in the United States.
+When people talk about these PRISM‑like programmes, or PRISM itself, what that name actually means is: a programme where people in corporations, or perhaps non‑profits of any kind, or simply organizations, are complicit in helping the government. [Partly] because they are forced under the [FISA Amendments Act][LoGiurato] – FAA 702 I believe is the specific FISA Amendments Act that they are using in the United States.
 
 In this case Google for example, or Yahoo, or Skype, or Microsoft. They have either systems inside of their networks, or attached to their networks, where they are willingly and knowingly assisting in secret interception. That would be the PRISM program.
 
@@ -52,7 +53,7 @@ The way these systems work and the way these programs work, is a three phase app
 
 - The first is through complicity either with legal instruments.
 - The second is by normal surveillance and spying which is the UPSTREAM. 
-- The third is what has recently been talked about as the GENIE programme. This was recently revealed in the Washington Post. 
+- The third is what has recently been talked about as the GENIE programme. This was recently [revealed in the Washington Post][Gellman]. 
 
 *GENIE* is just one of many programmes for tactical exploitation. They want to know what it is that you’re doing. They can’t monitor you upstream, they can’t go to Google to get your information, so they break into your computer system.
 
@@ -76,7 +77,7 @@ This comes together to be used in egregious ways. For example, there exists sign
 
 Anytime you pick up a new device, and you enter these selector‑like objects into this new device, that new device becomes linked to you if it passes by one of these sensors. There exists an emergent pattern‑base‑entity system for the entire planet and every person that is on the planet.
 
-This data is fed into geographic tracking systems. The NSA and the CIA have a system whereby they track people and the slogan is, "We Track ’Em, You Whack ’Em". This was published in the Washington Post most recently. The surveillance data is tied directly into flying robots that kill people without process.
+This data is fed into geographic tracking systems. The NSA and the CIA have a system whereby they track people and the slogan is, "We Track ’Em, You Whack ’Em". This was [published in the Washington Post][Priest] most recently. The surveillance data is tied directly into flying robots that kill people without process.
 
 The surveillance has a huge impact on people in a very literal sense, with rockets. In this case this is almost all passive. The first two parts of what I mentioned were passive. Tactical exploitation is not passive. I want to dispel the myth of the passive NSA which is they are just some guys, some really cute mathematicians with pocket protectors, and they’re just doing math and breaking codes, and they’re heroes in these world war movies.
 
@@ -90,13 +91,13 @@ These kinds of systems and these kinds of programs are extremely terrifying. The
 
 This is the key thing. Most of the people in the U.S. Congress that I have become familiar with in any way, have other people print their email for them. They don’t really understand how the electronic world works. None of them can tell you what TCP/IP is. Very few of them understand what wiretapping is. What we are actually seeing here is that the architecture itself of these systems is *left vulnerable on purpose*. 
 
-There exists encrypted fax machines, for example. I believe it was the European Parliament that was intercepted, I think it was a Crypto AG encrypted fax machine. It looks like they did what we would call a TEMPEST attack. They looked for electronic emissions from the encrypted device. From that, they were able to recover the actual pre‑encrypted fax data. They didn’t break the encryption. They went around the encryption.
+There exists encrypted fax machines, for example. I believe it was the European Parliament that was intercepted, I think it was a Crypto AG encrypted fax machine [MacAskill][MacAskill]. It looks like they did what we would call a TEMPEST attack. They looked for electronic emissions from the encrypted device. From that, they were able to recover the actual pre‑encrypted fax data. They didn’t break the encryption. They went around the encryption.
 
 What we see is that there are some architectural changes that change the type of attack that is possible. Which means, it changes the economic scale. It changes the ability to carry out the attack, in some cases.
 
 In this case, when we have so‑called lawful interception programs, what we need to recognize is that the NSA is not bound by European laws, and they do not care what your laws say. When you say it will be proportionate and balanced to be able to wiretap people for the purposes of terrorism, you are also tacitly endorsing the NSA to wiretap everyone in your country without any judicial process‑without any proportionality, whatsoever.
 
-This is what happened in Greece with the Athens Affair. Almost certainly, we don’t know that it was the NSA, but it was an actor with sufficient capabilities. They were able to wire‑tap the Prime Minister as well as members of Parliament. 
+This is what happened in Greece with the [Athens Affair][Prevelakis]. Almost certainly, we don’t know that it was the NSA, but it was an actor with sufficient capabilities. They were able to wiretap the Prime Minister as well as members of Parliament. 
 
 It also moves the risk from a world where it was military, to a world where you have someone who operates a computer. They are the last line of defense between your Prime Minister being wire‑tapped, or not.
 
@@ -106,9 +107,9 @@ There exists a series of sensors around the entire planet. Think of the entire p
 
 [14:15]
 
-If we look at the Internet and telephone systems, when the NSA is unable to actually get access to a system through complicity or some kind of data sharing program, they re‑purpose things that are already there. When we look at programs like *XKeyScore*, for example, we see that they have coverage in places where we know that state—whichever state that might be—would absolutely not give this data willingly. How is it that they have that?
+If we look at the Internet and telephone systems, when the NSA is unable to actually get access to a system through complicity or some kind of data sharing program, they re‑purpose things that are already there. When we look at programs like *[XKeyScore][XKeyScore]*, for example, we see that they have coverage in places where we know that state—whichever state that might be—would absolutely not give this data willingly. How is it that they have that?
 
-The answer is that they implant, or they put a root kit, into these systems. They extract this data. When they do searches, they are actually able to do real time searches with selector and selector‑like objects to pull things out of that whole globe of electronic signals to feed it back to one of the massive data repositories. For example, the Bluffdale, Utah, facility is meant to store more than a hundred years of data.
+The answer is that they implant, or they put a root kit, into these systems. They extract this data. When they do searches, they are actually able to do real time searches with selector and selector‑like objects to pull things out of that whole globe of electronic signals to feed it back to one of the massive data repositories. For example, the [Bluffdale, Utah][Wired2012], facility is meant to store more than a hundred years of data.
 
 If we think about these systems as a whole, we actually have a planetary surveillance system that is not accountable to the people, that is used for extra‑judicial assassination in addition to other things. One of the only hopes we have is to use encryption to change the way and to change the economic value of such interception. We can’t stop people from spying, but we can lower the value of that spying. I look forward to talking more about this. Thanks again so much for having me here. It’s quite an honor.
 
@@ -154,7 +155,7 @@ It is not merely a question about whether or not the US government or a European
 
 It’s not about whether or not we trust Google. It’s about whether we acknowledge that we don’t get to make that choice, someone else makes that choice, regardless of what the laws or policies say. Towards what we can actually do, I think we need to actually secure ourselves.
 
-I have in my pocket here a cryptographic telephone which actually helpfully told me that there was some interception‑like capabilities in this building. Just a side note. It might be a bug, but maybe it’s a feature. This phone—short of breaking into it when I make a phone call—no one here, short of a mathematical breakthrough, is going to be able to intercept it. I have a couple different encrypted text messaging programs, I have the TOR projects, TOR Orbot program, Cryptophone, RedPhone, TecSecure, some other things.
+I have in my pocket here a cryptographic telephone which actually helpfully told me that there was some interception‑like capabilities in this building. Just a side note. It might be a bug, but maybe it’s a feature. This phone—short of breaking into it when I make a phone call—no one here, short of a mathematical breakthrough, is going to be able to intercept it. I have a couple different encrypted text messaging programs, I have the TOR projects, TOR Orbot program, Cryptophone, RedPhone, TextSecure, some other things.
 
 Actually doing research into how to build decentralized distributed secure systems that are freely specified, openly specified, with no back doors, with no ability to coerce the developers into adding back doors; to actually embrace the idea of liberal democracy, and drive it home that we have the right to speak freely–that is something that I think which we really can do. It’s not like a pipe dream. It exists right here, and you don’t have it probably.
 
@@ -166,11 +167,11 @@ The answer is this fundamental tension between people that are supposed to keep 
 
 [23:57]
 
-"The Washington Post" published a cost estimate. It’s something along the lines of $52.6 billion a year. Since 9/11, more than half a trillion dollars for the intelligence budgets, the black budget. I don’t think that that encompasses, for example, all things that I might consider to be that. I don’t think, for example, the CIA torture and rendition flights were in that budget. There are so many terrifying aspects to the way some of the questions were asked, just as a sort of meta‑point.
+"The Washington Post" [published a cost estimate][wp-cost-estimate]. It’s something along the lines of $52.6 billion a year. Since 9/11, more than half a trillion dollars for the intelligence budgets, the black budget. I don’t think that that encompasses, for example, all things that I might consider to be that. I don’t think, for example, the CIA torture and rendition flights were in that budget. There are so many terrifying aspects to the way some of the questions were asked, just as a sort of meta‑point.
 
 For example, do FiveEyes countries—that is to say, the UK, USA, New Zealand, Canada, and United Kingdom—do they help each other out as a matter of circumventing national laws? The answer to that is very clear. It’s yes. There’s in fact even a place in Washington DC where some British and American intelligence services share a building, where they—I’ve been told, I haven’t been able to see it, I have some satellite photos of it—where it’s a retransmission of information between the two parties, so that one party can intercept on one side and the other party can intercept on the other. This would be something worth looking into. I hope Duncan will do that, in his spare time. 
 
-Then, has the NSA compromised European computers? I’ll just say “yes” to that. That’s totally, completely without question, the case. Now, I wouldn’t think of it so much in terms of computers. I would ask yourself about atomic power plants, hospitals, parliamentarians, and I think the answer to those is also “yes” in specific. I would be pretty upset. That’s very serious, because when these guy are messing around with control systems, for example, what happens when they accidentally do something to a control system and it fails? Who’s responsible for that? Does it count as an act of war? Do they have any economic responsibility for it? 
+Has the NSA compromised European computers? I’ll just say “yes” to that. That’s totally, completely without question, the case. Now, I wouldn’t think of it so much in terms of computers. I would ask yourself about atomic power plants, hospitals, parliamentarians, and I think the answer to those is also “yes” in specific. I would be pretty upset. That’s very serious, because when these guy are messing around with control systems, for example, what happens when they accidentally do something to a control system and it fails? Who’s responsible for that? Does it count as an act of war? Do they have any economic responsibility for it? 
 
 There’s really serious consequences when we start to talk about that. There’s a lot of fear‑mongering about so‑called hacktivists or hackers, and not a lot of talking about how... If the Chinese are so terrible, for example, for having compromised a bunch of people and gotten caught, what are the NSA for having compromised basically everyone and gotten away with it?
 
@@ -232,4 +233,62 @@ Research and development in the European context to decentralize and secure thes
 
 **Host:**  We thank you, Jacob Appelbaum. We thank you.
 
-***
+### References in the press
+
+[LoGiurato]: http://www.businessinsider.com/fisa-amendments-act-how-prism-nsa-phone-collection-is-it-legal-2013-6
+
+LoGiurato, Brett (June 7, 2013). "Here's The Law The Obama Administration Is Using As Legal Justification For Broad Surveillance". Business Insider. Retrieved July 14, 2013.
+http://www.businessinsider.com/fisa-amendments-act-how-prism-nsa-phone-collection-is-it-legal-2013-6
+http://goo.gl/HpCGls
+
+[Priest]: http://articles.washingtonpost.com/2013-07-21/world/40713603_1_national-security-agency-former-senior-agency-official-intelligence
+
+Dana Priest (July 21, 2013). "NSA growth fueled by need to target terrorists". The Washington Post.
+http://articles.washingtonpost.com/2013-07-21/world/40713603_1_national-security-agency-former-senior-agency-official-intelligence
+http://goo.gl/cfUP3j
+
+[Gellman]: http://articles.washingtonpost.com/2013-08-30/world/41620705_1_computer-worm-former-u-s-officials-obama-administration
+
+Barton Gellman, Ellen Nakashima (August 30, 2013). "U.S. spy agencies mounted 231 offensive cyber-operations in 2011, documents show". The Washington Post. 
+http://articles.washingtonpost.com/2013-08-30/world/41620705_1_computer-worm-former-u-s-officials-obama-administration
+http://goo.gl/0VgKCY
+
+[MacAskill]: http://www.theguardian.com/world/2013/jun/30/nsa-leaks-us-bugging-european-allies
+
+Ewen MacAskill, Julian Borger (30 June 2013). "New NSA leaks show how US is bugging its European allies". The Guardian.
+http://www.theguardian.com/world/2013/jun/30/nsa-leaks-us-bugging-european-allies
+
+Unsigned (July 01, 2013). "New Snowden leak: US bugged dozens of foreign embassies". RT (formerly Russia Today).
+http://rt.com/news/snowden-leak-us-bugged-embassies-480/
+http://goo.gl/Bse3Fv
+
+On the Athens Affair:
+
+[Prevelakis]: http://spectrum.ieee.org/telecom/security/the-athens-affair
+
+Vassilis Prevelakis, Diomidis Spinellis (June 29, 2007). "The Athens Affair: How some extremely smart hackers pulled off the most audacious cell-network break-in ever". IEEE Spectrum. 
+http://spectrum.ieee.org/telecom/security/the-athens-affair
+http://goo.gl/V4npjC
+
+On XKeyScore:
+
+[XKeyScore]: http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation
+
+theguardian.com (July 31, 2013). "XKeyscore presentation from 2008 – read in full". The Guardian.
+http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation
+http://goo.gl/4dVHiq
+
+On Bluffdale Datacenter:
+
+[Wired2012]: http://www.wired.com/threatlevel/2012/03/ff_nsadatacenter/
+
+James Bamford (March 15, 2012). "The NSA Is Building the Country’s Biggest Spy Center (Watch What You Say)". WIRED.com.
+http://www.wired.com/threatlevel/2012/03/ff_nsadatacenter/
+http://goo.gl/xA6bih
+
+On NSA Budget:
+
+[wp-cost-estimate] http://articles.washingtonpost.com/2013-08-29/world/41709796_1_intelligence-community-intelligence-spending-national-intelligence-program
+
+Barton Gellman, Greg Miller (August 29, 2013). "U.S. spy network’s successes, failures and objectives detailed in ‘black budget’ summary". The Washington Post.
+http://articles.washingtonpost.com/2013-08-29/world/41709796_1_intelligence-community-intelligence-spending-national-intelligence-program
