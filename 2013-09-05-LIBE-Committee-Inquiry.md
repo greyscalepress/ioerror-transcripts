@@ -12,85 +12,99 @@ Host:  Mr. Appelbaum, you’ve got the floor!
 
 Jacob Appelbaum:  Thanks so much for having me. It’s quite an honor to be here. This is my first time in European Parliament. I want to take a broad view of someone who has some experience with this. I’ve spent the last decade working in a censorship resistance field. I work on the Tor Network. That’s an anonymity network that people can use so as to not be surveilled and to bypass censorship. It’s actually funded by the US State Department, the Swedish International Development Agency, and it’s a free software project.
 
-However, I’m here more in my capacity as an independent journalist, as an investigative journalist, but also as a person who’s been subject to extreme scrutiny under these types of surveillance programs. With that said, I definitely want to talk about the NSA, and I will, but I want to have a broader view. Part of what we’ve learned from Snowden and his whistleblowing in the public interest, is that the NSA has an all‑encompassing spy program.
+However, I’m here more in my capacity as an independent journalist, as an investigative journalist, but also as a person who has been subject to extreme scrutiny under these types of surveillance programs. 
 
-But what is not really well described in public yet is how it is actually the case that the FBI and the Central Intelligence Agency of the United States also have similar access programs. For example, when people talk about these PRISM‑like programs, or PRISM itself, what that name actually means is: it’s a program where people in corporations, or perhaps non‑profits of any kind, or simply organizations, are complicit in helping the government. Either because they are forced under the FISA Amendments Act, FAA702 I believe is the specific FISA Amendments Act that they are using in the United States.
+With that said, I definitely want to talk about the NSA, and I will, but I want to have a broader view. Part of what we’ve learned from Snowden and his whistleblowing in the public interest is that the NSA has an all‑encompassing spy program.
 
-In this case Google for example, or Yahoo, or Skype, or Microsoft. They have either systems inside of their networks or attached to their networks, where they are willingly and knowingly assisting in secret interception. That would be the PRISM program.
+But what is not really well described in public yet is that the FBI and the CIA of the United States also have similar access programs. 
 
-Or there are significantly more serious business‑like records, like legal instruments, which don’t really even have a name other than *business records*. For example, the Federal Bureau of Investigation in the United States has a thing called the National Security Letter (of which I believe I am actually a subject, which is an interesting story for another time). These are generally considered to be unconstitutional in the United States. Judges have ruled that. 
+When people talk about these PRISM‑like programmes, or PRISM itself, what that name actually means is: a programme where people in corporations, or perhaps non‑profits of any kind, or simply organizations, are complicit in helping the government. [Partly] because they are forced under the FISA Amendments Act – FAA 702 I believe is the specific FISA Amendments Act that they are using in the United States.
 
-It appears that each branch and each agency has something that is like a National Security Letter. In the case of the business records, it seems in fact significantly worse than a national security letter. So it’s not just a matter of meta‑data, it's in fact whatever business records. Any record a business may create, or you may create with a business.
+In this case Google for example, or Yahoo, or Skype, or Microsoft. They have either systems inside of their networks, or attached to their networks, where they are willingly and knowingly assisting in secret interception. That would be the PRISM program.
 
-If we consider Prism, and then if we consider the fact they have hardware that’s inside of these networks, or are inside of these computer systems, it really is everything. Unless there is specific push back inside of companies. 
+Or there are significantly more serious business‑like records, legal instruments which don’t even have a name other than *business records*. For example, the FBI has a thing called the National Security Letter (which I believe I am actually a subject of, an interesting story for another time). These are generally considered to be unconstitutional in the United States. Judges have ruled that. 
 
-This we could call Prism. But it is actually more than just one program. Prism is just one program, and there are many programs like this. 
+It appears that each branch, each agency has something like a National Security Letter. In the case of the business records, it seems to be significantly worse than a National Security Letter. It’s not just a matter of meta‑data, it's in fact whatever business records. Any record a business may create, or you may create with a business.
 
-There is another word which has been used quite a lot for companies that maybe don’t fit exactly to that mold, and it’s been called *Upstream*.
+If we consider PRISM, if we consider the fact they have hardware inside of these networks, or are inside of these computer systems, it really is everything. Unless there is specific push back inside of companies. 
 
-**Upstream** is more of a description. That is, it's rather *how* it is that they are doing it technologically. It suggests that there's a little bit less complicity with the people that are targeted. But what it suggests is if they can’t monitor someone directly, or can’t reach inside of an organization, they monitor any communication with that organization. 
+This we could call PRISM. But it is actually more than just one program. PRISM is just one program, and there are many other programs like this. 
 
-So that is they are *upstream* of that company, of those entities, of those systems.
+There is another word which has been used for companies that maybe don’t fit exactly to that mold, and it’s been called *UPSTREAM*.
+
+**UPSTREAM** is more of a description. It's rather *how* it is that they are doing it technologically. It suggests that there is a little bit less complicity with the people that are targeted. But if they can’t monitor someone directly, or can’t reach inside of an organization, they monitor any communication with that organization. 
+
+That is they are *upstream* of that company, of those entities, of those systems.
 
 [4:02]
 
-The **Tempora** system is the full take collection system running in the United Kingdom by GCHQ. This is the system in the sense that they are the entire Internet leaving and entering the UK. Any packet, any piece of data that flows through the UK, goes into Tempora and is stored for, as of the last time I heard, at least three full days. 
+The **Tempora** system is the full take collection system running in the United Kingdom by GCHQ. It is a full take system in the sense that they [monitor] the entire Internet leaving and entering the UK. Any packet, any piece of data that flows through the UK, goes into Tempora and is stored for, as of the last time I heard, at least three full days. 
 
-That’s every single thing. Not just meta‑data, all data. 
+That’s every single thing. Not just meta‑data. All data. 
 
-So that kind of system, combined with something like Prism, is a surveillance apparatus that the world has never seen before.
+So that kind of system, combined with something like PRISM, is a surveillance apparatus that the world has never seen before.
 
-When Duncan Campbell revealed **Echelon** to the world, it was pretty terrifying. It was a very impactful thing for me. But when he revealed it to the world, I didn’t imagine it could become so much worse. But Echelon by comparison is the kids’ stuff that hackers create these days. 
+When Duncan Campbell revealed **ECHELON** to the world, it was pretty terrifying. It was a very impactful thing for me. But when he revealed it to the world, I didn’t imagine it could become so much worse. But ECHELON by comparison is the kids’ stuff that hackers create these days. 
 
 These systems that we are seeing, Snowden having revealed through Glenn Greenwald and Laura Poitras, these systems are so advanced. 
 
 The way these systems work and the way these programs work, is a three phase approach:
 
 - The first is through complicity either with legal instruments.
-- The second is by normal surveillance and spying which is the upstream. 
-- The third is what has recently been talked about as the GENIE program. This was recently revealed in the Washington Post. 
+- The second is by normal surveillance and spying which is the UPSTREAM. 
+- The third is what has recently been talked about as the GENIE programme. This was recently revealed in the Washington Post. 
 
-*GENIE* is just one of many programs for tactical exploitation. They want to know what it is that you’re doing. They can’t monitor you upstream, they can’t go to Google to get your information, so they break into your computer system.
+*GENIE* is just one of many programmes for tactical exploitation. They want to know what it is that you’re doing. They can’t monitor you upstream, they can’t go to Google to get your information, so they break into your computer system.
 
-According to what the Washington Post has recently revealed, there are tens of thousands of systems which have been compromised by the NSA in an active way under just the GENIE program. There are other programs like that I am familiar with, which have not yet been revealed in public, which will be revealed in good time, where they are targeting specific pieces of software, where they are targeting specific types of people, and where they are specifically doing it for people that are not terrorists.
+According to what the Washington Post has recently revealed, there are tens of thousands of systems which have been compromised by the NSA in an active way under just the GENIE program. 
 
-Some of the things that are clearly noted in some of these documents, it is the case that the terrorist is the exception. If they have 30 cases, one of them might be a terrorist. This is something that’s very concerning because with a full‑take collection, it is necessarily the case that you have every single person surveilled. One or two of them may be terrorists. Accused, suspected, not even convicted, certainly not indicted. This is something which is also very important to keep in mind.
+There are other programs like that I am familiar with, which have not yet been revealed in public, which will be revealed in good time, where they are targeting specific pieces of software, where they are targeting specific types of people, and where they are specifically doing it for people that are not terrorists.
+
+Some of the things that are clearly noted in some of these documents, is that the terrorist is *the exception*. If they have 30 cases, one of them might be a terrorist. This is something that’s very concerning because with a full‑take collection, it is necessarily the case that you have every single person surveilled. One or two of them may be terrorists. Accused, suspected, not even convicted, certainly not indicted. This is something which is also very important to keep in mind.
 
 These people have not been formally charged in any way, and yet they are painted in this way. People that are targeted in this way and are under this surveillance – none of them are really terrorists. There are some special exceptions. But it’s important to recognize how these things tie together, because it’s very boring just to talk about technology. Since almost no one understands the technology, it’s a waste of time. 
 
-Instead what we can talk about is the things that people really do understand. Which is that, with the Five Eyes program – that is to say the defense signals directorate from Australia, CSE from Canada, the GCSB from New Zealand, the GCHQ from the United Kingdom, and the NSA from the United States – they have formed a partnership such that, despite the American Revolution against the British. GCHQ can query the NSA’s databases of America citizens, where they have similar full‑take collection systems. 
+Instead what we can talk about is the things that people really do understand. Which is that, with the *Five Eyes* programme (that is to say the Defense Signals Directorate from Australia, CSE from Canada, the GCSB from New Zealand, the GCHQ from the United Kingdom, and the NSA from the United States) they have formed a partnership such that – despite the American Revolution against the British – GCHQ can query the NSA’s databases of America citizens, where they have similar full‑take collection systems. 
 
-How that’s legal is completely beyond me. How that for example is democratic, how it represents upholding my country, to me is quite a dumbfounding thing. I’m sure the British feel the same on the NSA queries in their system. I would be quite upset about that as well.
+How that’s legal is completely beyond me. How that for example is democratic, how it represents upholding my country, to me is quite a dumbfounding thing. I’m sure the British feel the same when the NSA queries their system. I would be quite upset about that as well.
 
-Those are what are called first‑tier partners. GCHQ and NSA are first‑tier partners, and the others are second‑tier partners. BND, that’s the Bundesnachrichtendienst of Germany, they are a third‑tier partner. My understanding is that it's not unlike bittorrent piracy sharing sites where you have a quota to fill. If you’re a third‑tier partner, you have to contribute some information to be able to query some information out. I’m not totally clear on how this works, but it is an interesting distinction between the different tiers.
+Those are what are called first‑tier partners. GCHQ and NSA are first‑tier partners, the others are second‑tier partners. BND – that’s the Bundesnachrichtendienst of Germany – they are a third‑tier partner. My understanding is that it's not unlike bittorrent piracy sharing sites where you have a quota to fill. If you’re a third‑tier partner, you have to contribute some information to be able to query some information out. I’m not totally clear on how this works, but it is an interesting distinction between the different tiers.
 
-This comes together to be used in egregious ways...for example, there exists signals’ emission databases and fingerprint or signature databases. You have a particular signature for your voice, you have a particular set of selector or selector‑like objects that is your email address, your phone number, things like that.
+[8:32]
+
+This comes together to be used in egregious ways. For example, there exists signals emission databases and fingerprint or signature databases. You have a particular signature for your voice, you have a particular set of selector or selector‑like objects, that is your email address, your phone number, things like that.
 
 Anytime you pick up a new device, and you enter these selector‑like objects into this new device, that new device becomes linked to you if it passes by one of these sensors. There exists an emergent pattern‑base‑entity system for the entire planet and every person that is on the planet.
 
 This data is fed into geographic tracking systems. The NSA and the CIA have a system whereby they track people and the slogan is, "We Track ’Em, You Whack ’Em". This was published in the Washington Post most recently. The surveillance data is tied directly into flying robots that kill people without process.
 
-The surveillance has a huge impact on people in a very literal sense, like with rockets. In this case this is almost all passive. The first two parts of what I mentioned were passive. Tactical exploitation is not passive, but I want to dispel the myth of the passive NSA which is they are just some guys. Some really cute mathematicians with pocket protectors, and they’re just doing math and breaking codes, and they’re heroes in these world war movies.
+The surveillance has a huge impact on people in a very literal sense, with rockets. In this case this is almost all passive. The first two parts of what I mentioned were passive. Tactical exploitation is not passive. I want to dispel the myth of the passive NSA which is they are just some guys, some really cute mathematicians with pocket protectors, and they’re just doing math and breaking codes, and they’re heroes in these world war movies.
 
-There are people that are like that in the NSA, and there are some really incredible people that do work there, that are good people. Many of them actually have left to blow the whistle like Bill Binney, Thomas Drake, and Edward Snowden. In actuality, though, these people are doing the active operations. For example, I’ve become familiar with a program which has not yet been revealed in public where they instruct agents of the NSA to be able to go to an urban area to penetrate people’s house networks like their home wireless network.
+There are people that are like that in the NSA, and there are some really incredible people that do work there, that are good people. Many of them actually have left to blow the whistle like Bill Binney, Thomas Drake, and Edward Snowden. 
 
-This type of a program is like the modern black bag job of a digital era. To go and break into your house is the kind of stuff you would see in a cold war movie. They have training slides, in fact, for doing exactly that electronically when they can’t get in another way. These kinds of systems and these kinds of programs are extremely terrifying. They are not democratic by their very nature. They’re secret. They are without oversight. Whatever oversight might exist is mostly meaningless because those people who are doing the oversight have so much trust and so little education.
+In actuality, though, these people are doing the active operations. For example, I’ve become familiar with a program, which has not yet been revealed in public, where they instruct agents of the NSA to be able to go to an urban area to penetrate people’s house networks, like their home wireless network.
 
-This is the key thing. Most of the people in the U.S. Congress that I have become familiar with in any way have other people print their email for them. They don’t really understand how the electronic world works. None of them can tell you what TCIP is. Very few of them understand what wiretapping is in actuality. What we are actually seeing here is that the architecture itself of the systems is left vulnerable on purpose. There exists in cryptive fax machines...for example, we know that the European Parliament was intercepted.
+This type of a program is like the modern *black bag* job of a digital era. To go and break into your house is the kind of stuff you would see in a cold war movie. They have training slides, in fact, for doing exactly that electronically when they can’t get in another way. 
 
-I believe it was the European Parliament that was intercepted for, I think it was a crypto AG in cryptive fax machine. It looks like they did what we would call a tempest attack. They look for electronic emissions from the encrypted device. From that they were able to recover this actual pre‑encrypted fax data. They didn’t break the encryption. They went around the encryption.
+These kinds of systems and these kinds of programs are extremely terrifying. They are not democratic by their very nature. They’re secret. They are without oversight. Whatever oversight might exist is mostly meaningless because those people who are doing the oversight have so much trust and so little education.
 
-What we see is that there are some architectural changes that change the type of attack. That is possible, which means it changes the economic scale, and it changes, in fact, the ability to carry out the attack in some cases.
+This is the key thing. Most of the people in the U.S. Congress that I have become familiar with in any way, have other people print their email for them. They don’t really understand how the electronic world works. None of them can tell you what TCP/IP is. Very few of them understand what wiretapping is. What we are actually seeing here is that the architecture itself of these systems is *left vulnerable on purpose*. 
 
-In this case when we have so‑called lawful interception programs, what we need to recognize is that the NSA is not bound by European laws, and they do not care what your laws say. When you say it will be proportionate and balanced to be able to wiretap people for the purposes of terrorism, you are also tacitly endorsing the NSA to wiretap everyone in your country without any judicial process‑without any proportionality, whatsoever.
+There exists encrypted fax machines, for example. I believe it was the European Parliament that was intercepted, I think it was a Crypto AG encrypted fax machine. It looks like they did what we would call a TEMPEST attack. They looked for electronic emissions from the encrypted device. From that, they were able to recover the actual pre‑encrypted fax data. They didn’t break the encryption. They went around the encryption.
 
-This is what happened in Greece with the Athens Affair. Almost certainly, we don’t know that it was the NSA, but it was an actor with sufficient capabilities. They were able to wire‑tap the prime minister as well as members of Parliament. It also moves the risk from a world where it was military, to a world where you have someone who operates a computer. They are the last line of defense between your prime minister being wire‑tapped and not.
+What we see is that there are some architectural changes that change the type of attack that is possible. Which means, it changes the economic scale. It changes the ability to carry out the attack, in some cases.
+
+In this case, when we have so‑called lawful interception programs, what we need to recognize is that the NSA is not bound by European laws, and they do not care what your laws say. When you say it will be proportionate and balanced to be able to wiretap people for the purposes of terrorism, you are also tacitly endorsing the NSA to wiretap everyone in your country without any judicial process‑without any proportionality, whatsoever.
+
+This is what happened in Greece with the Athens Affair. Almost certainly, we don’t know that it was the NSA, but it was an actor with sufficient capabilities. They were able to wire‑tap the Prime Minister as well as members of Parliament. 
+
+It also moves the risk from a world where it was military, to a world where you have someone who operates a computer. They are the last line of defense between your Prime Minister being wire‑tapped and not.
 
 In the case of the Vodafone incident in Greece, the person in charge of that telephone switch was found hanged to death in his apartment. The reason is because he wasn’t trained to do these things or to defend an entire nation in that way. It changes the balance of power in a very serious fashion.
 
-With that said, there exists a series of sensors around the entire planet. These sensors actually...you can think of the entire planet if you visualize a globe of the world. Now imagine there are electronic emissions from this globe. The NSA’s job is to capture all of it, including what goes into space, and they do. Where there are interesting communication satellites, there exist communication satellites behind those satellites. What do you suppose that those satellites do? Interesting things to look into.
+With that said, there exists a series of sensors around the entire planet. These sensors actually – you can think of the entire planet if you visualize a globe of the world. Now, imagine there are electronic emissions from this globe. The NSA’s job is to capture all of it, including what goes into space – and they do. Where there are interesting communication satellites, there exist communication satellites behind those satellites. What do you suppose that those satellites do? Interesting things to look into.
 
-If we look at the Internet and we look at telephone systems, when the NSA is unable to actually get access to a system through some kind of complicity or through some kind of data sharing program. They re‑purpose things that are already there. When we look at programs like Xkey Score, for example, we see that they have coverage in places where we know that state‑whichever state that might be‑would absolutely not give this data willingly. How is it that they have that?
+If we look at the Internet and we look at telephone systems, when the NSA is unable to actually get access to a system through complicity or some kind of data sharing program, they re‑purpose things that are already there. When we look at programs like *XKeyScore*, for example, we see that they have coverage in places where we know that state‑whichever state that might be‑would absolutely not give this data willingly. How is it that they have that?
 
 The answer is that they implant, or they put a root kit, into these systems. They extract this data. When they do searches, they are actually able to do real time searches with selector and selector‑like objects to pull things out of that whole globe of electronic signals to feed it back to one of the massive data repositories. For example, the Bluffdale, Utah, facility is meant to store more than a hundred years of data.
 
