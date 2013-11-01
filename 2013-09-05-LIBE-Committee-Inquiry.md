@@ -292,3 +292,4 @@ On NSA Budget:
 
 Barton Gellman, Greg Miller (August 29, 2013). "U.S. spy network’s successes, failures and objectives detailed in ‘black budget’ summary". The Washington Post.
 http://articles.washingtonpost.com/2013-08-29/world/41709796_1_intelligence-community-intelligence-spending-national-intelligence-program
+http://goo.gl/SzBxFA
