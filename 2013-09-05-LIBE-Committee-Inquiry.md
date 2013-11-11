@@ -233,7 +233,7 @@ Research and development in the European context to decentralize and secure thes
 
 **Host:**  We thank you, Jacob Appelbaum. We thank you.
 
-### References in the press
+### Bibliography
 
 [LoGiurato]: http://www.businessinsider.com/fisa-amendments-act-how-prism-nsa-phone-collection-is-it-legal-2013-6
 
