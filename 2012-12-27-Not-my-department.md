@@ -240,9 +240,7 @@ which fiber-optic cables happened to be in use when your bits were crossing it.
 
 But how does this actually play out?
 
-It depends, right? And it depends in a very specific sense, so for example drone killings, and I'm not just talking about Anwar al-Aulaqis' innocent
-
-16-year-old son in Yemen, but drone killings of thousands of people.
+It depends, right? And it depends in a very specific sense, so for example drone killings, and I'm not just talking about Anwar al-Aulaqis' innocent 16-year-old son in Yemen, but drone killings of thousands of people.
 
 The targeting information is fed to the CIA and to other groups
 from surveillance listening points, from intelligence factories.
@@ -317,19 +315,12 @@ And they say 'well, it doesn't concern me' or 'it won't impact me', 'in fact, th
 
 I'm not actually sure what a legitimate investigation is, when you can't actually hold people to account and there are secret laws.
 
-Ruled by law and the rule of law are not exactly the same thing.
-Rule by decree doesn't mean that this is just, simply because it's written down, especially if the interpretation is secret.
+Ruled by law and the rule of law are not exactly the same thing. Rule by decree doesn't mean that this is just, simply because it's written down, especially if the interpretation is secret.
 
-So, after people recognize maybe that it might impact them, there is a fantastic set of things that takes place, and one of them is that people would try to minimize their role in it, saying something along the lines of
-'Well, it won't be possible to sort me out and find me in this massive data set.'
-or 'even if I do stand out nothing will happen to me'.
-And then eventually, if they happen to be as unlucky as I have been in the last few years they'll
-say something along the lines of 'Well, the system works and
-no injustice will occur, because the state is benign'.
+So, after people recognize maybe that it might impact them, there is a fantastic set of things that takes place, and one of them is that people would try to minimize their role in it, saying something along the lines of 'Well, it won't be possible to sort me out and find me in this massive data set.' or 'even if I do stand out nothing will happen to me'. And then eventually, if they happen to be as unlucky as I have been in the last few years they'll say something along the lines of 'Well, the system works and no injustice will occur, because the state is benign'.
 
 There are not many people that I have met that have gotten
-to that stage, who actually continue to think that for very long.
-It might be worth considering that perhaps we don't have to get to the point, to recognize that there is great folly in that set of thoughts, in that plan for thinking about it.
+to that stage, who actually continue to think that for very long. It might be worth considering that perhaps we don't have to get to the point, to recognize that there is great folly in that set of thoughts, in that plan for thinking about it.
 
 It might be the case, that the surveillance state that exists in fact
 is negative even if you do not yet understand fully its negative effects.
@@ -362,25 +353,22 @@ what you think the United Nations declaration of human rights says, that's not w
 And so this defense that people have, that they're journalists, so they're protected and no one will do anything to them, it's nonsense.
 In the United States, every journalist that is subject to the wireless tapping tentacles is surveilled, regardless of the general journalistic protection. Every member of Congress, everybody in this room, probably, especially everyone in this room.
 
-And of course people will say something lije “ Well, don't cross the border with anything ”.
+And of course people will say something like “Well, don't cross the border with anything”.
 
 That's just so stupid. So you know for example when I crossed the border with a telephone, I'm not actually allowed to tell you what happened to my telephone.
-And obviously it was a mistake to cross the border with a telephone, But it was not that much of a mistake since the telephone connects to the telephon system, and every number in that phone had been used to make a received call, so it's not like on this day, it was not already in the hands of the oppressor's hand
-It was the case in fact that it was slightly better indexed, but it also had extra numbers just for fun
-I mean if you're going to have a surveillance state
-that is going to get people for guilt of association, you might wanna make sure that you have some jerks in your phone book, right?
+And obviously it was a mistake to cross the border with a telephone. But it was not that much of a mistake since the telephone connects to the telephone system, and every number in that phone had been used to make or receive a call. So it's not like on this day, it was not already in the hands of the oppressors. It was the case that it was slightly better indexed, but it also had extra numbers just for fun. I mean, if you're going to have a surveillance state that is going to get people for guilt of association, you might wanna make sure that you have some jerks in your phone book, right?
 
 [applause]
 
-But the reality it that while I can't cross the border with anything of consequence, that is me deciding to become subdued, and that is me deciding to accept the opression
+But the reality is that while I can't cross the border with anything of consequence, that is me deciding to become subdued, and that is me deciding to accept the opression.
 
-And every one here could make that choice, but I say “ fuck that ”, that's not a choice we should make.
+And every one here could make that choice, but I say “fuck that”, that's not a choice we should make.
 It is in fact a coping mechanism, and these kinds of coping mechanisms are a response
-to feeling the lack of agency, feeling a total helplessness, for example people who run
-through their mind things like “ how will I eat? ”, “ how will I feed my children? ”, “ how will I educate them? ”
-“ If I don't play along, if I don't comply, they'll make my life hell. ”
+to feeling the lack of agency, feeling a total helplessness. For example people who run
+through their mind things like “how will I eat?”, “how will I feed my children?”, “how will I educate them?”
+“If I don't play along, if I don't comply, they'll make my life hell.”
 
-Part of the problem here, and it's funny to say that in Europe because it's such a different context. Part of the problem here is the state. When the state has the power to make you have those kinds of thoughts appear in your head, when it allows you to create that and to make those choices, we become less free.
+Part of the problem here—and it's funny to say that in Europe because it's such a different context—part of the problem here is the State. When the State has the power to make you have those kinds of thoughts appear in your head, when it allows you to create that and to make those choices, we become less free.
 
 So maybe recognizing those coping mechanisms, and then trying to progress to the next one, trying to progress to the next thought, could be helpful.
 
@@ -539,25 +527,25 @@ I recently used this code. I wrote the very first version of Ooniprobe, and Artu
 I admit, I think it was probably the right choice. But I used it in Burma, and using this is we accidentally discovered a new way to detect censorship surveillance, that we had not previously considered, which was, even if you don't know a censored site, if you use twisted, it's so efficient that it will crash the blue coat device
 for a nonsense on site. Thank you Blue Code.
 
-These kinds of positive constructive approaches are worth talking about, and there are lots of them. Everybody who's worked on GNU project, everybody who's worked on opensource software and free software, everyone in this room who's working on hardware, who's working on documentation, these are things that we should try to focus on.
+These kinds of positive constructive approaches are worth talking about, and there are lots of them. Everybody who's worked on GNU project, everybody who's worked on open source software and free software, everyone in this room who's working on hardware, who's working on documentation, these are things that we should try to focus on.
 
-And we should do it towards some goals. We should try to consider that when we build free and opensource software, when we build free and opensource hardware, we are enabling people to be free in ways that they previously were not.
+And we should do it towards some goals. We should try to consider that when we build free and open source software, when we build free and open source hardware, we are enabling people to be free in ways that they previously were not.
 
 [40:56]
 
 Literally, people that write free software are granting liberties.
 
-About ten days ago, I had the —I guess pleasure is the word— to go to Burma, and I met some free software hackers who live in situations, which are almost unthinkable. One person I met had been sentenced to 15 years in jail for receiving an email
-with a political cartoon in it. And it was considered receiving illegal information, or something along these lines, and he served four years in a hard-laboured prison camp, before being released earlier this year. So the conditions for hacking, the conditions in which communications are not free, where sim cards cost $250, where there is a massive class stratification in what regards the access to the Internet and censorship, these people are working on building free software there, literally free software for freedom.
+About ten days ago, I had the—I guess pleasure is the word—to go to Burma, and I met some free software hackers who live in situations, which are almost unthinkable. One person I met had been sentenced to 15 years in jail for receiving an email
+with a political cartoon in it. And it was considered receiving illegal information, or something along these lines, and he served four years in a hard-laboured prison camp, before being released earlier this year. So the conditions for hacking, the conditions in which communications are not free, where SIM cards cost $250, where there is a massive class stratification in what regards the access to the Internet and censorship, these people are working on building free software there, literally free software for freedom.
 
 So when you work on free software for freedom, your are also enabling them to also work on freedom.
-this is the kind of mutual aid and solidarity, of which
+This is the kind of mutual aid and solidarity, of which
 you don't even need to know that you are doing it in specific.
-But you are. So everyone who is working on free and open source hardware and softare, is actively concretely building a better world. And yet there are exceptions.
+But you are. So everyone who is working on free and open source hardware and software, is actively concretely building a better world. And yet there are exceptions.
 
-There are sometimes people who make new licenses because they don't feel that they don't get enough credit. I think it was Theo de Raadt who said that.
+There are sometimes people who make new licenses because they don't feel that they get enough credit. I think it was Theo de Raadt who said that.
 I mean, it happens. But ultimately, overall, it is a positive thing, and writing free software is great.
-And ultimately, part of the goal here, something we can agree on I think, is to try and leave enjoyable lives, free from cause of force.
+And ultimately, part of the goal here, something we can agree on I think, is to try and live enjoyable lives, free from cause of force.
 This is something that is, regardless of how we live our lives, that is probably something we wish to work on towards everybody being enable to have, as their life, to be free, and in a very specific sense, where they get to choose what it is their freedom represents, where they get to choose how their life goes. Working towards that, you might be able to call it, as Peter Singer would say, a preference-based utilatarianism. The reality of that is, that I may not be willing to believe in your God, but I'm may respect the fact that you want to believe that your God exists.
 We have to come to the terms, that we live in a pluralistic world, whether or not some people might like it, right? The German nazis that the secret police were helping?
 
@@ -618,7 +606,7 @@ You can clap if you want.
 Well, I feel bad for mentionning his name now. Moxie Marlinspike who is a great guy, well, I love the guy, he's fantastic. Well, he says part of the problem is, you know I'm paraphrasing, but
 he says part of the problem is we feel we don't have any agency, we can't do anything about
 all the bad shit that happens in this world. But the reality is we actually do.
-So if you believe, let's take a survey. Raise you hand if youn think anonymity is something, and you think is a fundamental right we should all have.
+So if you believe, let's take a survey. Raise your hand if you think anonymity is something, and you think is a fundamental right we should all have.
 
 Now raise your hand if you wanna do something about it.
 
@@ -632,7 +620,7 @@ You can do something about it right now. There are costs.
 
 But that is the point. We do have the agency. And sometimes we make the choice not to use it.
 And I respect that. We have that choice, and I'm glad that it's a choice.
-But we should recognize, that when we don't make that choice, or when we are afraid, that that is what is is. Bravery is not an absence of fear. It is continuing to do things, even when you are afraid, because you know that it is the right thing to do.
+But we should recognize, that when we don't make that choice, or when we are afraid, that that is what it is. Bravery is not an absence of fear. It is continuing to do things, even when you are afraid, because you know that it is the right thing to do.
 So it is important to be brave, and to acknowledge that there is fear.
 
 And it is important to refuse to be anatemized in our society.
@@ -666,42 +654,41 @@ There are lots of other things that we can do
 to continue, and to really carry forward the bit of democracy that we have left in this world.
 
 And we have actually to help them further, and to help other people.
-And it's worth doing it. Well, I think hacktivism as a strategy is I think worthwhile.
-And it's worth mentioning that while breaking into something is sometimes quite difficult, it's fundamentally much easier than building something, something that everyone can use freely, something that is going to benefit people. But let's talk about these basic tactics for just a moment, because I'm almost out of time. But there are things that are scary. Like when I say
-that we should get rif of the secret police in the world, people expect
-ligthning to strike, or some sniper rifles to like release
+And it's worth doing it. Well, I think hacktivism as a strategy is worthwhile.
+And it's worth mentioning that while breaking into something is sometimes quite difficult, it's fundamentally much easier than building something, something that everyone can use freely, something that is going to benefit people. But let's talk about these basic tactics for just a moment, because I'm almost out of time. There are things that are scary. Like when I say that we should get rid of the secret police in the world, people expect
+lightning to strike, or some sniper rifles to release
 a magic pink dust from the back of my neck.
 
-But the thing is that the secrecy is what gives power. And so I think that the thing that we should try to dot, is that if we have secret police that is interfering not democratically with our society, we should out them. That's important. To report them, and reveal the thing that is decidedly illegal. Reveal them and ask for accountability.
+But the thing is that the secrecy is what gives power. And so the thing that we should try to do, is that if we have secret police that is interfering not democratically with our society, we should out them. That's important. To report them, and reveal the thing that is decidedly illegal. Reveal them and ask for accountability.
 
 [applaud]
 
-If it is decidedly illegal, that for example they are helping right wing murderers, then show, that that's not what society actually wishes these people to do. Because otherwise there is a kind of culpability. This notion that is not your department is nonsense. It is all our department. You get to make a choice between living a life where you are going to have quite a lot of shame in the end, or one where the whole earth is our department.
+If it is decidedly illegal, that for example they are helping right wing murderers, then show, that that's not what society actually wishes these people to do. Because otherwise there is a kind of culpability. This notion that it is not your department is nonsense. It is all our department. You get to make a choice between living a life where you are going to have quite a lot of shame in the end, or one where the whole Earth is our department.
 
 That's a choice we have to make, and we make it all the time.
 
-I'm honestly humbled by the fact that some people, like Karsten Loesing in the front row here, could have chosen to work a cushy job at the University, But he chose to work on some metrics for the Tor project. He's a brillant guy who can probably choose to do anything that he'd want, and he's chosen to do great work helping people to speak freely. And it's the same with Linus Nordberg, and George, and other people in this audience. So you can make that choice, and the return is the freedoms that we actually have in our lives. So I want to close, you know, by saying that if the governments murdering people, that you don't just brush if off.
+I'm honestly humbled by the fact that some people, like Karsten Loesing in the front row here, could have chosen to work a cushy job at the University. But he chose to work on some metrics for the Tor project. He's a brillant guy who can probably choose to do anything that he'd want, and he's chosen to do great work helping people to speak freely. And it's the same with Linus Nordberg, and George, and other people in this audience. So you can make that choice, and the return is the freedoms that we actually have in our lives. So I want to close, you know, by saying that if the governments murdering people, that you don't just brush if off.
 
 You think about it, you look to who's accountable, and
-you collect data. Rop actually encouraged me to think about this. We may not be able to bring justice for people today. But when we have the data on the people who have done this tomorrow, tomorrow might be the day when we bring those people justice. Not brushing it off, not becoming desensitized, keeping that around, that will allow us to make people accountable later, even though right now that we can't. License plate scanners across your city?
+you collect data. Rop actually encouraged me to think about this. We may not be able to bring justice for people today. But when we have the data on the people who have done this tomorrow, tomorrow might be the day when we bring those people justice. Not brushing it off, not becoming desensitized, keeping that around, that will allow us to make people accountable later, even though right now that we can't. 
 
-Get that data. One useful thing useful that you can do with that data is that you can reveal all the covert surveillance that's taking place in that city. Think about it for a few minutes, and you'll figure it out.
+License plate scanners across your city? Get that data. One useful thing that you can do with that data is that you can reveal all the covert surveillance that's taking place in that city. Think about it for a few minutes, and you'll figure it out.
 
 It's not very hard. So then reveal that information, because spying is wrong, because spying is an affront to the human dignity.
 
-Data retention? Same deal. Get that data. Use that data for something useful. Try to make sure that it is clear that those are not the decisions and trade offs we want, where a total surveillance state won't actually allow even special people to retain their specialness. It's quite dangerous when we have a fully surveillance state. But we have not fully understood that yet.
+Data retention? Same deal. Get that data. Use that data for something useful. Try to make sure that it is clear that those are not the decisions and trade offs we want, where a total surveillance state won't actually allow even special people to retain their specialness. It's quite dangerous when we have a surveillance state. But we have not fully understood that yet.
 
 But we work toward that all the time. So if I were to leave you with just one thing, I would probably leave you with one thing that the Dalaï Lama said in his teachings.
 
 I'm fundamentally not a religious person, at all, so I'm just to going to leave out the last part of what he said, because it doesn't really drive what I'm trying to tell you. But I'll tell you what it is, and I'm not gonna say it at the same time.
 
-He said that death is certain, but the time of death is uncertain, and I think that's something hard to cope with. But it's something I also heard from Bill Binnie which is very inspiring, and I've also heard it from Daniel Ellsberg. They both said that they are old men, and that they've got nothing to lose, but that they are going to do the best that they can, because “ what are we gonna do? Jammy for the rest of their life? ” they said.
+He said that death is certain, but the time of death is uncertain, and I think that's something hard to cope with. But it's something I also heard from Bill Binney which is very inspiring, and I've also heard it from Daniel Ellsberg. They both said that they are old men, and that they've got nothing to lose, but that they are going to do the best that they can, because “what are we gonna do? Jammy for the rest of their life?” they said.
 
 That's awesome that they said that, because they're both older guys, and they may only have a little bit of life left.
 
-But I think the important part is to recognize that they're coping with that certainty, that they will have to sleep at night, that they get to choose what they're going to do with the remaining precious bits of life that they have, and they've choosen directly and clearly that it is their department, to do the things that are in their control, to not sit idly by, to not be complicit of serious things, that are going seriously wrong. So what the Dalaï Lame also said, was that at the time of death what only helps is the religious practice, and I think that might be true on a personal level, but on a societal level, another thing that helps is to recognize that we all are going at different paces, and so as people make these choices, they impact the world in what other people can do with their life. So Bill Binney's actions, he may not live to see all of these things come to fruition, but the important part is that because of what he has done, he has inspired others. And those are thepeople who will take action, and make the world a better place. 
+But I think the important part is to recognize that they're coping with that certainty, that they will have to sleep at night, that they get to choose what they're going to do with the remaining precious bits of life that they have, and they've choosen directly and clearly that it is their department, to do the things that are in their control, to not sit idly by, to not be complicit of serious things, that are going seriously wrong. So what the Dalaï Lama also said, was that at the time of death what only helps is the religious practice, and I think that might be true on a personal level, but on a societal level, another thing that helps is to recognize that we all are going at different paces, and so as people make these choices, they impact the world in what other people can do with their life. So Bill Binney's actions, he may not live to see all of these things come to fruition, but the important part is that because of what he has done, he has inspired others. And those are the people who will take action, and make the world a better place. 
 
-So with that said, I'd like to say that some of the goals that I layed out in this, I'd like to say that they are everyone's department.
+So with that said, I'd like to say that some of the goals that I laid out in this, I'd like to say that they are everyone's department.
 
 Happy hacking. Thanks for having me.
 
