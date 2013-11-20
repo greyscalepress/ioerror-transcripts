@@ -235,15 +235,13 @@ When you are followed around, when you are being investigated because of the whi
 
 So, it seems that data retention is the beginning of the end of many of our freedoms in bulk.
 
-And that is a very scary thing. And when people do retroactive policing, it is when they apply that lack of freedom in a very specific way, and then they take these actions, they depend, of course, on which state you happen to be in and
-which fiber-optic cables happened to be in use when your bits were crossing it.
+And that is a very scary thing. And when people do retroactive policing, it is when they apply that lack of freedom in a very specific way, and then they take these actions, they depend, of course, on which state you happen to be in and which fiber-optic cables happened to be in use when your bits were crossing it.
 
 But how does this actually play out?
 
 It depends, right? And it depends in a very specific sense, so for example drone killings, and I'm not just talking about Anwar al-Aulaqis' innocent 16-year-old son in Yemen, but drone killings of thousands of people.
 
-The targeting information is fed to the CIA and to other groups
-from surveillance listening points, from intelligence factories.
+The targeting information is fed to the CIA and to other groups from surveillance listening points, from intelligence factories.
 
 So there is a direct relationship between surveillance and support of straight up murder.
 
@@ -322,8 +320,7 @@ So, after people recognize maybe that it might impact them, there is a fantastic
 There are not many people that I have met that have gotten
 to that stage, who actually continue to think that for very long. It might be worth considering that perhaps we don't have to get to the point, to recognize that there is great folly in that set of thoughts, in that plan for thinking about it.
 
-It might be the case, that the surveillance state that exists in fact
-is negative even if you do not yet understand fully its negative effects.
+It might be the case, that the surveillance state that exists in fact is negative even if you do not yet understand fully its negative effects.
 So you see this also as a social defense in groups, as a reaction.
 I think, probably the split between WikiLeaks and Open Leaks is the greatest example of the fact that groups, even effective groups, will split and will have bad blood and they will in fact deliver utter failure.
 And it's very sad, tragic even, and this kind of stuff is something which, even when trying to resist it, we aren't quite aware of how these types of things happen.
